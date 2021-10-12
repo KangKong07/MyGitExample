@@ -31,4 +31,7 @@ public class Assume_unchanged_8 {
 		System.out.println("== Assume_unchanged_8.java 파일입니다. =="); 
 	}
 	// 호호호
+	// hohoho//
+	// 헤헤헤헤
+	// 하하하하
 }
